@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;.glass,.text-gradient,body{@apply bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-600 min-h-screen}

@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/analyze/route": "app/api/analyze/route.js",
+  "/api/generate-quiz/route": "app/api/generate-quiz/route.js",
+  "/api/summary/route": "app/api/summary/route.js",
+  "/api/save-note/route": "app/api/save-note/route.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(main)/profile/page": "app/(main)/profile/page.js",
+  "/(main)/page": "app/(main)/page.js"
+}
